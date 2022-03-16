@@ -13,7 +13,8 @@
 
 # cooperation
 ###  We accept following crypto currencies:
-- **BTC**(BTC Mainnet): `bc1qhxg7m2vcu8zd2sngzkttttc7ky7pr6sh6lru7m`
-- **ETH**(ERC20): `0x3506fEd3575d74935b9e3add447e3C2792eEeD68`
-- **DOGE**(DOGE Mainnet): `DDb42f8bZgAGTzNCaH4CYUdc79oAnNe5zh`
+- **BTC**(Bitcion Mainnet): `133Hp7S8tR6D9LGEu1Aw2VRYo8amR8Ev5v`
+- **ETH**(Ethereum ERC20): `0xd80981b5aecc2c77b9d6a0630736fe7db4ab16a0`
+- **USDT**(Ethereum ERC20): `0xd80981b5aecc2c77b9d6a0630736fe7db4ab16a0`
+- **DOGE**(Dogecoin Mainnet): `DBpsDQ71AoaQMkP6HVP7ba1PhPu7sJsHUh`
  
