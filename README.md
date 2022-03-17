@@ -6,10 +6,10 @@
 - 💬 send message to me  choetClear@protonmail.com
 
 
-<!-- # note
-### It will be the only way to verify  a file that is from choetclear.There is root certificate and public key.
-- You can download certificates click <a href="https://choetclear.github.io/certificates/choetClear.txt">here</a>
-- You can download public key click  <a href="https://choetclear.github.io/certificates/publicKey.txt">here</a> -->
+# note
+### It will be the only way to verify  a file that is from choetclear.
+- You can verify certificates click <a href="https://choetclear.github.io/certificates/choetClear.txt">here</a>
+- You can download public key click  <a href="https://github.com/choetClear/choetClear/blob/main/publicKey.txt">here</a>
 
 # cooperation
 ###  We accept following crypto currencies:
