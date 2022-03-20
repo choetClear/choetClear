@@ -10,12 +10,12 @@
 ### It will be the only way to verify  a file that is from choetclear.
 - You can verify certificates click <a href="https://choetclear.github.io/ver1.html">here</a>
 - You can download public key click  <a href="https://github.com/choetClear/choetClear/blob/main/publicKey.txt">here</a>
-
 - If you want to apply for the authorization of your documents, send your documents and apply.xml documents to the choetClear@protonmail.com. This is application template.
+- There is a web page that help you Generate apply.xm click <a href="https://choetclear.github.io/applyXml.html">here</a>
  ```xml
 <!--
     1.This file name must be apply.xml.
-    2.Each item can only contain numbers, characters, !, @, #, $, %, ?, .,blank space,comma.
+    2.Each item can only contain numbers, characters, !, @, #, $, %,/,=,*,+,-, ?, .,blank space,comma.
 -->
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
