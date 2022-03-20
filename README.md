@@ -15,7 +15,7 @@
  ```xml
 <!--
     1.This file name must be apply.xml.
-    2.Each item can only contain numbers, characters, !, @, #, $, %, ? .
+    2.Each item can only contain numbers, characters, !, @, #, $, %, ?, .,blank space,comma.
 -->
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
