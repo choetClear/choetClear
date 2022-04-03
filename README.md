@@ -1,8 +1,8 @@
 # Preview
-- 🔭 I’m currently Writing poetry ...
-- 🌱 I’m currently coding ...
-- 👯 I’m looking to  <I didn't think about it>
-- 🤔 I’m looking for help with  <I didn't think about it>
+- 🔭 反对996，反对压迫
+- 🌱 反对996压迫的目的为了全民族未来和自己家庭幸福
+- 👯 人权,<中华人民共和国宪法>,<中华人民共和国劳动法>
+- 🤔 维护中华民族的尊严,工人阶级的未来.
 - 💬 send message to me  choetClear@protonmail.com
 
 
@@ -12,6 +12,9 @@
 - You can download public key click  <a href="https://github.com/choetClear/choetClear/blob/main/publicKey.txt">here</a>
 - If you want to apply for the authorization of your documents, send your documents and apply.xml documents to the choetClear@protonmail.com. This is application template.
 - There is a web page that help you Generate apply.xm click <a href="https://choetclear.github.io/applyXml.html">here</a>
+<details>
+ <summary>A demo of apply.xml</summary>
+ 
  ```xml
 <!--
     1.This file name must be apply.xml.
@@ -36,6 +39,7 @@
     <entry key="other">no other</entry><!-- Optional filling  -->
 </properties>
 ```
+</details>
 
 # cooperation
 ###  We accept following crypto currencies:
